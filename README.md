@@ -5,7 +5,7 @@ At the same time, the interested developers on this project could found a good o
 
 ## Connections diagram:
 
-![connections](/images/circuit.jpg)
+![connections](/images/circuit.JPG)
 
 ## Release notes:
 
@@ -30,7 +30,7 @@ At the same time, the interested developers on this project could found a good o
 ### How to get the fingerprint of a https rest api:
 * https://www.ssl2buy.com/wiki/how-to-view-ssl-certificate-details-on-chrome-56
 
-![fingerprint](/images/fingerprint.jpg)
+![fingerprint](/images/fingerprint.JPG)
 
 ## Demo:
 Taken on April 16th 2020:
